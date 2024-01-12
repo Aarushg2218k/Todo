@@ -1,0 +1,13 @@
+.outer{
+    width: 400px;
+    background: grey;
+    border:2px solid black;
+    border-radius: 20px;
+
+}
+.show{
+    background: grey;
+}
+.comptask{
+    background: white;
+}
